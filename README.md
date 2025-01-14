@@ -30,29 +30,29 @@
 
 | Languages         | Proficiency |
 |--------------------|-------------|
-| !🤖(https://via.placeholder.com/15/ffcccc/ffcccc.png) Python        | ⭐⭐⭐⭐⭐ |
-| !🖼️(https://via.placeholder.com/15/ffffcc/ffffcc.png) R             | ⭐⭐⭐⭐⭐ |
-| !📊(https://via.placeholder.com/15/ccffcc/ccffcc.png) SQL           | ⭐⭐⭐⭐⭐ |
-| !🌐(https://via.placeholder.com/15/cce5ff/cce5ff.png) Matlab        | ⭐⭐⭐⭐⭐ |
+| 🤖(https://via.placeholder.com/15/ffcccc/ffcccc.png) Python        | ⭐⭐⭐⭐⭐ |
+| 🖼️(https://via.placeholder.com/15/ffffcc/ffffcc.png) R             | ⭐⭐⭐⭐⭐ |
+| 📊(https://via.placeholder.com/15/ccffcc/ccffcc.png) SQL           | ⭐⭐⭐⭐⭐ |
+| 🌐(https://via.placeholder.com/15/cce5ff/cce5ff.png) Matlab        | ⭐⭐⭐⭐⭐ |
 
 ---
 
 ### ⚙️ **Technologies & Frameworks**  
 
 **Backend Frameworks**:  
-![](https://via.placeholder.com/15/ffe6cc/ffe6cc.png) Django, Flask, Tkinter  
+![](https://via.placeholder.com/15/ffe6cc/ffe6cc.png)Django, Flask, Tkinter  
 
 **AI & Machine Learning**:  
-![](https://via.placeholder.com/15/e6ccff/e6ccff.png) TensorFlow, PyTorch, Hugging Face, LangChain  
+![](https://via.placeholder.com/15/e6ccff/e6ccff.png)TensorFlow, PyTorch, Hugging Face, LangChain  
 
 **Generative AI**:  
-![](https://via.placeholder.com/15/ccff99/ccff99.png) GPT-4, LLaMA-3, Stable Diffusion, DALL-E  
+![](https://via.placeholder.com/15/ccff99/ccff99.png)GPT-4, LLaMA-3, Stable Diffusion, DALL-E  
 
 **Databases**:  
-![](https://via.placeholder.com/15/ccffff/ccffff.png) MySQL, MongoDB, Pinecone  
+![](https://via.placeholder.com/15/ccffff/ccffff.png)MySQL, MongoDB, Pinecone, ChromaDB
 
 **Tools**:  
-![](https://via.placeholder.com/15/ffcc99/ffcc99.png) Docker, Tableau, MLflow, Azure AI  
+![](https://via.placeholder.com/15/ffcc99/ffcc99.png)Docker, Tableau, MLflow, Azure AI  
 
 ---
 
