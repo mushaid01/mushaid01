@@ -30,10 +30,10 @@
 
 | Languages         | Proficiency |
 |--------------------|-------------|
-| 🤖(https://via.placeholder.com/15/ffcccc/ffcccc.png) Python        | ⭐⭐⭐⭐⭐ |
-| 🖼️(https://via.placeholder.com/15/ffffcc/ffffcc.png) R             | ⭐⭐⭐⭐⭐ |
-| 📊(https://via.placeholder.com/15/ccffcc/ccffcc.png) SQL           | ⭐⭐⭐⭐⭐ |
-| 🌐(https://via.placeholder.com/15/cce5ff/cce5ff.png) Matlab        | ⭐⭐⭐⭐⭐ |
+| 🤖 Python        | ⭐⭐⭐⭐⭐ |
+| 🖼️ R             | ⭐⭐⭐⭐⭐ |
+| 📊 SQL           | ⭐⭐⭐⭐⭐ |
+| 🌐 Matlab        | ⭐⭐⭐⭐⭐ |
 
 ---
 
