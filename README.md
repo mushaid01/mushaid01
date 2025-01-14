@@ -1,6 +1,6 @@
 # ✨ **Mir Mushaidul Islam – AI Engineer Extraordinaire** ✨  
 
-**_"Innovating the future with Artificial Intelligence and cutting-edge technology."_**
+**_Innovating the future with Artificial Intelligence and cutting-edge technology._**
 
 🏆 **Award-Winning AI Engineer** | 🌐 **Founder of ProjectAlpha** | 📊 **Data Science Enthusiast**  
 📍 **Kupwara, Kashmir, India** | 🏅 **Building solutions that matter**  
@@ -30,10 +30,10 @@
 
 | Languages         | Proficiency |
 |--------------------|-------------|
-| ![#ffcccc](https://via.placeholder.com/15/ffcccc/ffcccc.png) Python        | ⭐⭐⭐⭐⭐ |
-| ![#ffffcc](https://via.placeholder.com/15/ffffcc/ffffcc.png) R             | ⭐⭐⭐⭐ |
-| ![#ccffcc](https://via.placeholder.com/15/ccffcc/ccffcc.png) SQL           | ⭐⭐⭐⭐ |
-| ![#cce5ff](https://via.placeholder.com/15/cce5ff/cce5ff.png) Matlab        | ⭐⭐⭐⭐ |
+| !🤖(https://via.placeholder.com/15/ffcccc/ffcccc.png) Python        | ⭐⭐⭐⭐⭐ |
+| !🖼️(https://via.placeholder.com/15/ffffcc/ffffcc.png) R             | ⭐⭐⭐⭐⭐ |
+| !📊(https://via.placeholder.com/15/ccffcc/ccffcc.png) SQL           | ⭐⭐⭐⭐⭐ |
+| !🌐(https://via.placeholder.com/15/cce5ff/cce5ff.png) Matlab        | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -71,15 +71,15 @@
 
 ### **[📚 Enhanced RAG Content Generator](https://github.com/mushaid01)**  
 - **Tech Stack**: LangChain, ChromaDB, LLaMA-3  
-- 🚀 Improved content generation accuracy by 3%.  
+- 🚀Improved content generation accuracy by 3%.  
 
 ### **[📝 Document Classification](https://github.com/mushaid01/Document_Classification)**  
 - **Tech Stack**: Django, CNN, PDFMiner, AWS EC2  
-- 🕒 Reduced document processing time by 60%.  
+- 🕒Reduced document processing time by 60%.  
 
 ### **[🌾 Smart Agriculture System](https://github.com/mushaid01)**  
 - **Tech Stack**: Django, TensorFlow  
-- 🌱 Real-time crop recommendations, 2% efficiency gain.  
+- 🌱Real-time crop recommendations, 2% efficiency gain.  
 
 ---
 
@@ -112,5 +112,3 @@
 🚀 **Let’s build something amazing together!**  
 
 --- 
-
-This README combines advanced visuals, animations, and structured sections to make it engaging and professional. Let me know if you'd like further refinements! 🚀
